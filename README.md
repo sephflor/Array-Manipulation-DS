@@ -1,1 +1,1 @@
-# Array-Manipulation-DS
+# Array-Manipulation-DS.This C# code efficiently performs range addition operations on an array using a difference array technique. It updates only the start and end+1 indices for each query, then computes a prefix sum to find and return the maximum value after all operations.
